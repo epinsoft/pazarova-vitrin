@@ -2,12 +2,13 @@
   <img src="img/pazarova_logo.png" alt="Pazarova" height="80">
 </p>
 
-<h1 align="center">Pazarova</h1>
-<p align="center"><b>Çok‑Satıcılı Oyun & E‑pin Pazar Yeri Yazılımı</b></p>
+<h1 align="center">Pazarova — E‑pin Scripti & Çok‑Satıcılı Pazar Yeri Yazılımı</h1>
+<p align="center"><b>E‑pin yazılımı · e‑pin bayilik scripti · oyun eşyası & dijital ürün pazar yeri scripti</b></p>
 
 <p align="center">
-  Kullanıcıların kendi mağazasını açıp ilan yayınladığı, <b>emanet (escrow)</b> korumalı,<br>
-  komisyonlu bir pazar yeri platformu. Oyun eşyası · hesap · oyun parası · e‑pin.
+  Pazarova; kullanıcıların kendi mağazasını açıp ilan yayınladığı, <b>emanet (escrow)</b> korumalı,
+  komisyonlu bir <b>çok‑satıcılı pazar yeri (marketplace) scriptidir</b>.<br>
+  <b>E‑pin satış sitesi</b>, oyun eşyası, oyun parası, oyun kodu, hesap ve dijital ürün satışı için hazır <b>PHP yazılımı</b>.
 </p>
 
 <p align="center">
@@ -56,8 +57,20 @@
 PHP (CodeIgniter 3 · HMVC) · MySQL/MariaDB · sunucu‑taraflı render.
 Ödeme geçitleri modülerdir; alıcı kendi ödeme sağlayıcısını bağlar.
 
+## 🔎 Kullanım Alanları
+Pazarova aşağıdaki işletmeler için uygun bir hazır yazılımdır:
+- **E‑pin scripti / e‑pin yazılımı** — e‑pin satış sitesi, e‑pin bayilik sistemi
+- **Oyun eşyası pazar yeri scripti** — skin, item, hesap alım‑satımı (çok satıcılı)
+- **Dijital ürün satış yazılımı** — oyun parası, oyun kodu, lisans, abonelik
+- **Marketplace scripti** — komisyonlu, emanetli (escrow) çok‑satıcılı pazar yeri
+- **Bayilik / reseller scripti** — satıcı seviyeleri ve komisyon kademeleri ile
+
 ## 💼 Satın Alma / İletişim
-Pazarova **satılık bir yazılımdır**. Canlı demoyu incelemek veya satın alma hakkında görüşmek için proje sahibiyle iletişime geçin.
+Pazarova **satılık bir yazılımdır** (e‑pin scripti / pazar yeri scripti). Canlı demoyu incelemek veya satın alma hakkında görüşmek için proje sahibiyle iletişime geçin.
+
+---
+
+<sub><b>Anahtar kelimeler:</b> e‑pin scripti, e‑pin yazılımı, epin script, e‑pin satış sitesi scripti, e‑pin bayilik scripti, oyun eşyası satış scripti, oyun eşyası pazar yeri, dijital ürün satış yazılımı, çok satıcılı marketplace scripti, oyun parası satış sistemi, hesap satış scripti, PHP e‑ticaret / pazar yeri yazılımı.</sub>
 
 ## 📄 Lisans
 Özel/ticari yazılım — **Tüm hakları saklıdır**. Bkz. [LICENSE.txt](LICENSE.txt).
