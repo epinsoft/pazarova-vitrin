@@ -40,6 +40,9 @@
 |---|---|
 | ![Sepet](screenshots/07-sepet.jpg) | <img src="screenshots/08-mobil.jpg" width="240"> |
 
+### 🛠️ Yönetim Paneli (Admin)
+![Admin panel](screenshots/09-admin-panel.jpg)
+
 ---
 
 ## ⭐ Öne Çıkan Özellikler
