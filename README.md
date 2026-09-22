@@ -2,13 +2,13 @@
   <img src="img/pazarova_logo.png" alt="Pazarova" height="80">
 </p>
 
-<h1 align="center">Pazarova — E‑pin Scripti & Çok‑Satıcılı Pazar Yeri Yazılımı</h1>
-<p align="center"><b>E‑pin yazılımı · e‑pin bayilik scripti · oyun eşyası & dijital ürün pazar yeri scripti</b></p>
+<h1 align="center">Pazarova — Epin Scripti & Epin Yazılımı</h1>
+<p align="center"><b>Epin yazılım · epin scripti · epin bayilik scripti · çok‑satıcılı oyun eşyası & dijital ürün pazar yeri scripti</b></p>
 
 <p align="center">
-  Pazarova; kullanıcıların kendi mağazasını açıp ilan yayınladığı, <b>emanet (escrow)</b> korumalı,
-  komisyonlu bir <b>çok‑satıcılı pazar yeri (marketplace) scriptidir</b>.<br>
-  <b>E‑pin satış sitesi</b>, oyun eşyası, oyun parası, oyun kodu, hesap ve dijital ürün satışı için hazır <b>PHP yazılımı</b>.
+  Pazarova'yı; kullanıcıların kendi mağazasını açıp ilan yayınladığı, <b>emanet (escrow)</b> korumalı,
+  komisyonlu bir <b>çok‑satıcılı pazar yeri (marketplace) scripti</b> olarak geliştirdim.<br>
+  <b>Epin satış sitesi</b>, oyun eşyası, oyun parası, oyun kodu, hesap ve dijital ürün satışı için hazırladığım bir <b>PHP epin yazılımı</b>.
 </p>
 
 <p align="center">
@@ -61,19 +61,19 @@ PHP (CodeIgniter 3 · HMVC) · MySQL/MariaDB · sunucu‑taraflı render.
 Ödeme geçitleri modülerdir; alıcı kendi ödeme sağlayıcısını bağlar.
 
 ## 🔎 Kullanım Alanları
-Pazarova aşağıdaki işletmeler için uygun bir hazır yazılımdır:
-- **E‑pin scripti / e‑pin yazılımı** — e‑pin satış sitesi, e‑pin bayilik sistemi
+Pazarova'yı aşağıdaki işletmeler için hazır bir çözüm olarak geliştirdim:
+- **Epin scripti / epin yazılımı** (e‑pin scripti) — epin satış sitesi, epin bayilik sistemi
 - **Oyun eşyası pazar yeri scripti** — skin, item, hesap alım‑satımı (çok satıcılı)
 - **Dijital ürün satış yazılımı** — oyun parası, oyun kodu, lisans, abonelik
 - **Marketplace scripti** — komisyonlu, emanetli (escrow) çok‑satıcılı pazar yeri
 - **Bayilik / reseller scripti** — satıcı seviyeleri ve komisyon kademeleri ile
 
 ## 💼 Satın Alma / İletişim
-Pazarova **satılık bir yazılımdır** (e‑pin scripti / pazar yeri scripti). Canlı demoyu incelemek veya satın alma hakkında görüşmek için proje sahibiyle iletişime geçin.
+Pazarova'yı **satıyorum** (epin scripti / epin yazılımı / pazar yeri scripti). Canlı demoyu inceleyebilir, satın alma ve lisanslama için benimle iletişime geçebilirsiniz.
 
 ---
 
-<sub><b>Anahtar kelimeler:</b> e‑pin scripti, e‑pin yazılımı, epin script, e‑pin satış sitesi scripti, e‑pin bayilik scripti, oyun eşyası satış scripti, oyun eşyası pazar yeri, dijital ürün satış yazılımı, çok satıcılı marketplace scripti, oyun parası satış sistemi, hesap satış scripti, PHP e‑ticaret / pazar yeri yazılımı.</sub>
+<sub><b>Anahtar kelimeler:</b> epin scripti, epin yazılım, epin yazılımı, epin script, epin satış scripti, epin bayilik scripti, epin satış sitesi scripti, e‑pin scripti, e‑pin yazılımı, oyun eşyası satış scripti, oyun eşyası pazar yeri, dijital ürün satış yazılımı, çok satıcılı marketplace scripti, oyun parası satış sistemi, hesap satış scripti, PHP epin / e‑ticaret / pazar yeri yazılımı.</sub>
 
 ## 📄 Lisans
 Özel/ticari yazılım — **Tüm hakları saklıdır**. Bkz. [LICENSE.txt](LICENSE.txt).
