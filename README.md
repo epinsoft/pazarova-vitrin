@@ -36,9 +36,19 @@
 |---|---|
 | ![Gece Pazarı](screenshots/05-gece-pazari.jpg) | ![Özellikler](screenshots/06-ozellikler.jpg) |
 
-| Sepet | Mobil |
-|---|---|
-| ![Sepet](screenshots/07-sepet.jpg) | <img src="screenshots/08-mobil.jpg" width="240"> |
+<p align="center">
+  <img src="screenshots/07-sepet.jpg" width="640" alt="Sepet">
+</p>
+
+### 📱 Mobil Görünüm (responsive)
+
+<p align="center">
+  <img src="screenshots/08-mobil-1-anasayfa.jpg" width="250" alt="Mobil ana sayfa">
+  &nbsp;
+  <img src="screenshots/08-mobil-2-urun.jpg" width="250" alt="Mobil ürün detay">
+  &nbsp;
+  <img src="screenshots/08-mobil-3-magazalar.jpg" width="250" alt="Mobil mağazalar">
+</p>
 
 ### 🛠️ Yönetim Paneli & Entegrasyonlar
 
