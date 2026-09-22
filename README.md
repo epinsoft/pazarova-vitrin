@@ -1,22 +1,42 @@
 <p align="center">
-  <img src="img/pazarova_logo.png" alt="Pazarova" height="80">
+  <a href="https://pazarova.epinsoft.com.tr"><img src="img/hero.png" alt="Pazarova — Pazar Yeri Yazılımı & Epin Scripti" width="100%"></a>
 </p>
 
-<h1 align="center">Pazarova — Epin Scripti & Epin Yazılımı</h1>
-<p align="center"><b>Epin yazılım · epin scripti · epin bayilik scripti · çok‑satıcılı oyun eşyası & dijital ürün pazar yeri scripti</b></p>
+<div align="center">
 
-<p align="center">
-  Pazarova'yı; kullanıcıların kendi mağazasını açıp ilan yayınladığı, <b>emanet (escrow)</b> korumalı,
-  komisyonlu bir <b>çok‑satıcılı pazar yeri (marketplace) scripti</b> olarak geliştirdim.<br>
-  <b>Epin satış sitesi</b>, oyun eşyası, oyun parası, oyun kodu, hesap ve dijital ürün satışı için hazırladığım bir <b>PHP epin yazılımı</b>.
-</p>
+# Pazarova — Pazar Yeri Yazılımı & Epin Scripti
 
-<p align="center">
-  <img alt="stack" src="https://img.shields.io/badge/PHP-CodeIgniter-777bb4">
-  <img alt="db" src="https://img.shields.io/badge/MySQL-utf8mb4-4479a1">
-  <img alt="brand" src="https://img.shields.io/badge/Marka-%23FF5501-ff5501">
-  <img alt="demo" src="https://img.shields.io/badge/Durum-Sat%C4%B1l%C4%B1k%20Yaz%C4%B1l%C4%B1m-2ea44f">
-</p>
+**Çok‑satıcılı marketplace scripti.** Kullanıcıların kendi mağazasını açıp ilan yayınladığı, **emanet (escrow)** korumalı, komisyonlu bir **pazar yeri yazılımı**.
+
+Oyun eşyası · hesap · oyun parası · epin · dijital ürün — güvenli alışveriş, PHP.
+
+**[▶ Canlı Demo](https://pazarova.epinsoft.com.tr)** · **[Ekran Görüntüleri](#-ekran-görüntüleri)** · **[İletişim](mailto:pazarlama@epinsoft.com.tr)**
+
+<br>
+
+<a href="https://pazarova.epinsoft.com.tr"><img src="https://img.shields.io/badge/Canl%C4%B1%20Demo-FF5501?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Canlı Demo"></a>
+&nbsp;
+<a href="mailto:pazarlama@epinsoft.com.tr"><img src="https://img.shields.io/badge/%C4%B0leti%C5%9Fim%20%2F%20Sat%C4%B1n%20Al-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="İletişim / Satın Al"></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/%C3%87ok%20Sat%C4%B1c%C4%B1l%C4%B1-FF5501?style=for-the-badge" alt="Çok Satıcılı">
+<img src="https://img.shields.io/badge/Emanet%20(Escrow)-2ea44f?style=for-the-badge" alt="Emanet Escrow">
+<img src="https://img.shields.io/badge/Komisyon%20Kademeleri-0ea5e9?style=for-the-badge" alt="Komisyon">
+<img src="https://img.shields.io/badge/Oyunla%C5%9Ft%C4%B1rma-6d28d9?style=for-the-badge" alt="Oyunlaştırma">
+
+<br>
+
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white">
+<img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EE4623?style=flat&logo=codeigniter&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img alt="Marka" src="https://img.shields.io/badge/Marka-%23FF5501-ff5501">
+
+</div>
+
+> [!TIP]
+> **Canlı demoyu hemen incele →** [pazarova.epinsoft.com.tr](https://pazarova.epinsoft.com.tr)
+> Satın alma & lisanslama: **pazarlama@epinsoft.com.tr** · **+90 850 255 18 01**
 
 > Bu bir **tanıtım vitrinidir**. Kaynak kod ve teknik detaylar özeldir; bu depo yalnızca ekran görüntülerini ve öne çıkan özellikleri sergiler.
 
