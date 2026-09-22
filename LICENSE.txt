@@ -1,0 +1,11 @@
+Pazarova — Özel / Ticari Yazılım
+
+Telif hakkı (c) 2026 Pazarova / hak sahibi. Tüm hakları saklıdır.
+
+Bu depo yalnızca TANITIM amaçlı ekran görüntüleri ve açıklamalar içerir.
+Yazılımın kaynak kodu özeldir ve bu depoda YER ALMAZ.
+
+Buradaki görseller, marka ve metinler hak sahibinin izni olmadan
+kopyalanamaz, dağıtılamaz veya ticari olarak kullanılamaz.
+
+Satın alma / lisanslama için proje sahibiyle iletişime geçin.
