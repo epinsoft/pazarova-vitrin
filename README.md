@@ -1,3 +1,5 @@
+<p align="center"><sub>🌐 <b>Türkçe</b> · <a href="README.en.md">English</a></sub></p>
+
 <p align="center">
   <a href="https://pazarova.epinsoft.com.tr"><img src="img/hero.png" alt="Pazarova — Pazar Yeri Yazılımı & Epin Scripti" width="100%"></a>
 </p>
@@ -9,8 +11,6 @@
 **Çok‑satıcılı marketplace scripti.** Kullanıcıların kendi mağazasını açıp ilan yayınladığı, **emanet (escrow)** korumalı, komisyonlu bir **pazar yeri yazılımı**.
 
 Oyun eşyası · hesap · oyun parası · epin · dijital ürün — güvenli alışveriş, PHP.
-
-**[▶ Canlı Demo](https://pazarova.epinsoft.com.tr)** · **[Ekran Görüntüleri](#-ekran-görüntüleri)** · **[İletişim](mailto:pazarlama@epinsoft.com.tr)**
 
 <br>
 
@@ -35,12 +35,21 @@ Oyun eşyası · hesap · oyun parası · epin · dijital ürün — güvenli al
 </div>
 
 > [!TIP]
-> **Canlı demoyu hemen incele →** [pazarova.epinsoft.com.tr](https://pazarova.epinsoft.com.tr)
-> Satın alma & lisanslama: **pazarlama@epinsoft.com.tr** · **+90 850 255 18 01**
+> **▶ Canlı demo:** [pazarova.epinsoft.com.tr](https://pazarova.epinsoft.com.tr)
+>
+> **✉️ Satın alma & lisanslama:** pazarlama@epinsoft.com.tr
+>
+> **📞 Telefon:** +90 850 255 18 01
 
 > Bu bir **tanıtım vitrinidir**. Kaynak kod ve teknik detaylar özeldir; bu depo yalnızca ekran görüntülerini ve öne çıkan özellikleri sergiler.
 
 ---
+
+## 🎬 Canlı Önizleme
+
+<p align="center">
+  <a href="https://pazarova.epinsoft.com.tr"><img src="img/demo.gif" alt="Pazarova canlı önizleme" width="900"></a>
+</p>
 
 ## 📸 Ekran Görüntüleri
 
