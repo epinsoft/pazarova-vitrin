@@ -17,6 +17,8 @@ Game items · accounts · in-game currency · e-pin · digital goods — safe tr
 <a href="https://pazarova.epinsoft.com.tr"><img src="https://img.shields.io/badge/Live%20Demo-FF5501?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
 &nbsp;
 <a href="mailto:pazarlama@epinsoft.com.tr"><img src="https://img.shields.io/badge/Contact%20%2F%20Buy-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact / Buy"></a>
+&nbsp;
+<a href="docs/FEATURES-and-INSTALL.en.md"><img src="https://img.shields.io/badge/Features%20%26%20Install-1f6feb?style=for-the-badge&logo=readme&logoColor=white" alt="Features & Install"></a>
 
 <br><br>
 
@@ -39,6 +41,8 @@ Game items · accounts · in-game currency · e-pin · digital goods — safe tr
 > **✉️ Purchase & licensing:** pazarlama@epinsoft.com.tr
 >
 > **📞 Phone:** +90 850 255 18 01
+>
+> **📖 Features & installation guide:** [docs/FEATURES-and-INSTALL.en.md](docs/FEATURES-and-INSTALL.en.md)
 
 > This is a **showcase repository**. The source code is private; this repo only presents screenshots and highlights.
 
