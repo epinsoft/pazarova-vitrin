@@ -40,8 +40,19 @@
 |---|---|
 | ![Sepet](screenshots/07-sepet.jpg) | <img src="screenshots/08-mobil.jpg" width="240"> |
 
-### 🛠️ Yönetim Paneli (Admin)
+### 🛠️ Yönetim Paneli & Entegrasyonlar
+
 ![Admin panel](screenshots/09-admin-panel.jpg)
+
+| Tedarikçi / API Entegrasyonları | Pazar Yeri Ayarları (emanet/komisyon) |
+|---|---|
+| ![Entegrasyon](screenshots/10-entegrasyon-tedarikci.jpg) | ![Ayarlar](screenshots/11-pazar-yeri-ayarlari.jpg) |
+
+| Satış Raporları & Analiz | Oyunlaştırma (Şans Çarkı/Gece Pazarı) |
+|---|---|
+| ![Raporlar](screenshots/12-satis-raporlari.jpg) | ![Oyunlaştırma](screenshots/13-oyunlastirma.jpg) |
+
+> 🔌 **Entegrasyon altyapısı:** e‑pin/stok tedarikçileri için API entegrasyonu (Hyper, GamePoint, OyunFor tipi API Key + Token), webhook, ödeme geçidi modülleri (alıcı kendi POS'unu bağlar).
 
 ---
 
@@ -69,7 +80,10 @@ Pazarova'yı aşağıdaki işletmeler için hazır bir çözüm olarak geliştir
 - **Bayilik / reseller scripti** — satıcı seviyeleri ve komisyon kademeleri ile
 
 ## 💼 Satın Alma / İletişim
-Pazarova'yı **satıyorum** (epin scripti / epin yazılımı / pazar yeri scripti). Canlı demoyu inceleyebilir, satın alma ve lisanslama için benimle iletişime geçebilirsiniz.
+Pazarova'yı **satıyorum** (epin scripti / epin yazılımı / pazar yeri scripti). Canlı demoyu inceleyebilir, satın alma ve lisanslama için benimle iletişime geçebilirsiniz:
+
+- ✉️ **E‑posta:** pazarlama@epinsoft.com.tr
+- 📞 **Telefon:** +90 850 255 18 01
 
 ---
 
